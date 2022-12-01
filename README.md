@@ -1,5 +1,7 @@
 # mx_paddles_3d_print
 
+UPDATE: Paddle triads now do not fall forward due to axel stops. Use Paddle 2.4 with the current signum paddle triads.
+
 Signum keyboards can have paddle triads available in ```signum_paddle_triads.scad```
 
 ![left paddle base triad on Signum 3.0](20201118_185132.jpg)
